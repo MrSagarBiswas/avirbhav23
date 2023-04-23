@@ -15,6 +15,7 @@
     "ejs": "^3.0.2",
     "express": "^4.17.3",
     "mongoose": "^6.3.0",
-    "moongoose": "^0.0.5"
+    "moongoose": "^0.0.5",
+    "nodemon": "^2.0.22"
   }
 }
