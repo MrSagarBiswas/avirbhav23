@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "node app.js",
-    "build": "node app.js"
+    "build": "node app.js",
+    "start": "node app.js",
+    "build:azure": "node app.js"
   },
   "author": "",
   "license": "ISC",
