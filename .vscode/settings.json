@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/71b0fab9-42e7-4b69-abb1-f6304ef0d0e7/resourceGroups/sagarResource/providers/Microsoft.Web/sites/Avirbhav23/subscriptions/71b0fab9-42e7-4b69-abb1-f6304ef0d0e7/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/Avirbhav2k23",
+    "appService.deploySubpath": "."
+}
