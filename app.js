@@ -155,7 +155,7 @@ bills.findOne({}, (err, data) => {
 
 // GET on sponsor
 app.get("/sponsor", (req, res) => {
-    res.send("Coming Soon")
+    res.render("sponsor");
 })
 
 // GET on Public Ledger
